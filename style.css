@@ -74,7 +74,6 @@ section .title::after{
     transform: translateX(-50%);
 }
 
-/* navbar styling */
 .navbar{
     position: fixed;
     width: 100%;
