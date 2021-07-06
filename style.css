@@ -120,8 +120,6 @@ section .title::after{
 .navbar.sticky .menu li a:hover{
     color: #fff;
 }
-
-/* menu btn styling */
 .menu-btn{
     color: #fff;
     font-size: 23px;
