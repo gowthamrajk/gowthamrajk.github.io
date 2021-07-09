@@ -393,7 +393,7 @@ section .title::after{
     margin-right: 10px;
 }
 .teams .title::after{
-    content: "what i have done";
+    content: "what i've done";
 }
 .teams .carousel .card{
     background: #222;
