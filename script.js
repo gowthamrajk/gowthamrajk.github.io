@@ -35,7 +35,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Software Developer", "Design Thinker", "Student Placement Coordinator", "Student Alumini Coordinator", "Ex-President - Technical Clubs"],
+        strings: ["Software Developer", "Full Stack Web Developer", "Design Thinker", "Student Placement Coordinator", "Student Alumini Coordinator", "Ex-President - Technical Clubs"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
