@@ -475,7 +475,7 @@ section .title::after{
     border-color: #fff;
 }
 .achievement .title::after{
-    content: "- what i have achieved -";
+    content: "- what i've achieved -";
 }
 .achievement .carousel .card{
     background: #222;
@@ -516,7 +516,7 @@ section .title::after{
 }
 .videos .title::after{
     color: crimson;
-    content: "- what i have taught people -";
+    content: "- what i've taught people -";
 }
 .videos .carousel .card{
     background: white;
