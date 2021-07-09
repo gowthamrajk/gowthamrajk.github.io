@@ -434,7 +434,7 @@ section .title::after{
 }
 .hobbies .title::after{
     color: crimson;
-    content: "- what i have done during free time -";
+    content: "- free time work -";
 }
 .hobbies .carousel .card{
     background: #222;
