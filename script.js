@@ -28,7 +28,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Software Developer", "Design Thinker", "UI Designer"],
+        strings: ["Full Stack Web Developer", "Design Thinker", "UI Designer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
