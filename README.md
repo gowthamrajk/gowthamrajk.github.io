@@ -21,7 +21,7 @@
 
 ## Home Section
 
-![image](https://user-images.githubusercontent.com/43011442/125414467-d765f4d7-fb71-41fe-96bd-e313521d1811.png)
+![image](https://user-images.githubusercontent.com/43011442/125414938-1d3ceffa-8647-410e-ba63-450023348fb1.png)
 
 
 ## About Section
