@@ -2,6 +2,9 @@
 
 ![](https://img.shields.io/github/languages/count/gowthamrajk/gowthamrajk-portfolio)   ![](https://img.shields.io/github/languages/top/gowthamrajk/gowthamrajk-portfolio)
 
+
+**PortFolio Link :** 
+
 # TECHNOLOGIES USED 📌
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
