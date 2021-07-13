@@ -38,6 +38,7 @@
 ## Skills
 
 ![image](https://user-images.githubusercontent.com/43011442/125415420-3cead09a-0b12-4349-8509-078d2f39e2f4.png)
+![image](https://user-images.githubusercontent.com/43011442/125415519-42381238-116f-46c5-8cee-dd37066dffd2.png)
 
 
 
