@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/languages/count/gowthamrajk/gowthamrajk-portfolio)   ![](https://img.shields.io/github/languages/top/gowthamrajk/gowthamrajk-portfolio)
 
 
-**PortFolio Link : https://gowthamrajk.github.io/gowthamrajk-portfolio/** 
+**PortFolio Link : https://gowthamrajk.github.io/** 
 
 # TECHNOLOGIES USED 📌
 
