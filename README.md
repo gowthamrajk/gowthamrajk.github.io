@@ -19,6 +19,8 @@
 
 ## Additional Stack 😄
 
+![Filesaver JS](https://img.shields.io/static/v1?style=for-the-badge&message=Filesaver+Js&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+
 
 ## Development Tools 📺
 
