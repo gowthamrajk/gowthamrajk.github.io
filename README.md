@@ -20,7 +20,7 @@
 ## Additional Stack 😄
 
 ![Filesaver JS](https://img.shields.io/static/v1?style=for-the-badge&message=Filesaver+Js&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-
+![Youtube Player API](https://img.shields.io/static/v1?style=for-the-badge&message=Youtube+Player+API&color=E34F26&logo=Youtube&logoColor=FFFFFF&label=)
 
 ## Development Tools 📺
 
